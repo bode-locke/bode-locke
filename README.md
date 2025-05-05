@@ -2,7 +2,7 @@
 
 I'm a fullstack developer at Connect&Go 
 
-Skills : Symfony / Laravel / Vue.js / Go / Python
+Skills : Symfony / Laravel / Nuxt & Vue.js / Go / Python
 
 <!--
 **bode-locke/bode-locke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
